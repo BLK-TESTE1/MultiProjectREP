@@ -2,6 +2,6 @@
   "country": "us",
   "appFolders": [],
   "testFolders": [],
-  "bcptTestFolders": [],
-  "artifact": "https://bcartifacts.azureedge.net/sandbox/23.4.15643.15715/us"
+  "bcptTestFolders": []
+  // "artifact": "https://bcartifacts.azureedge.net/sandbox/23.4.15643.15715/us"
 }
